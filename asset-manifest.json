@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myassignreactjs/static/css/main.7d7086f1.chunk.css",
+    "main.js": "/myassignreactjs/static/js/main.57e9f874.chunk.js",
+    "main.js.map": "/myassignreactjs/static/js/main.57e9f874.chunk.js.map",
+    "runtime-main.js": "/myassignreactjs/static/js/runtime-main.3ce4fc74.js",
+    "runtime-main.js.map": "/myassignreactjs/static/js/runtime-main.3ce4fc74.js.map",
+    "static/js/2.7f597f50.chunk.js": "/myassignreactjs/static/js/2.7f597f50.chunk.js",
+    "static/js/2.7f597f50.chunk.js.map": "/myassignreactjs/static/js/2.7f597f50.chunk.js.map",
+    "static/js/3.0c823cae.chunk.js": "/myassignreactjs/static/js/3.0c823cae.chunk.js",
+    "static/js/3.0c823cae.chunk.js.map": "/myassignreactjs/static/js/3.0c823cae.chunk.js.map",
+    "index.html": "/myassignreactjs/index.html",
+    "static/css/main.7d7086f1.chunk.css.map": "/myassignreactjs/static/css/main.7d7086f1.chunk.css.map",
+    "static/js/2.7f597f50.chunk.js.LICENSE.txt": "/myassignreactjs/static/js/2.7f597f50.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/myassignreactjs/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ce4fc74.js",
+    "static/js/2.7f597f50.chunk.js",
+    "static/css/main.7d7086f1.chunk.css",
+    "static/js/main.57e9f874.chunk.js"
+  ]
+}
